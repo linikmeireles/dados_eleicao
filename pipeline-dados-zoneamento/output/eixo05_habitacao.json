@@ -1,0 +1,134 @@
+{
+ "Plano Piloto": {
+  "deficit_habitacional_pct": 5.3,
+  "sem_regularizacao_pct": 2
+ },
+ "Gama": {
+  "deficit_habitacional_pct": 10.0,
+  "sem_regularizacao_pct": 5
+ },
+ "Taguatinga": {
+  "deficit_habitacional_pct": 13.0,
+  "sem_regularizacao_pct": 6.2
+ },
+ "Brazlândia": {
+  "deficit_habitacional_pct": 11.0,
+  "sem_regularizacao_pct": 27.6
+ },
+ "Sobradinho": {
+  "deficit_habitacional_pct": 13.0,
+  "sem_regularizacao_pct": 25.8
+ },
+ "Planaltina": {
+  "deficit_habitacional_pct": 15.0,
+  "sem_regularizacao_pct": 52.4
+ },
+ "Paranoá": {
+  "deficit_habitacional_pct": 14.0,
+  "sem_regularizacao_pct": 60.8
+ },
+ "Núcleo Bandeirante": {
+  "deficit_habitacional_pct": 17.0,
+  "sem_regularizacao_pct": 14.5
+ },
+ "Ceilândia": {
+  "deficit_habitacional_pct": 14.0,
+  "sem_regularizacao_pct": 11.7
+ },
+ "Guará": {
+  "deficit_habitacional_pct": 9.0,
+  "sem_regularizacao_pct": 8.2
+ },
+ "Cruzeiro": {
+  "deficit_habitacional_pct": 5.0,
+  "sem_regularizacao_pct": 6.4
+ },
+ "Samambaia": {
+  "deficit_habitacional_pct": 12.0,
+  "sem_regularizacao_pct": 17.4
+ },
+ "Santa Maria": {
+  "deficit_habitacional_pct": 14.0,
+  "sem_regularizacao_pct": 26.9
+ },
+ "São Sebastião": {
+  "deficit_habitacional_pct": 19.0,
+  "sem_regularizacao_pct": 70.3
+ },
+ "Recanto das Emas": {
+  "deficit_habitacional_pct": 14.0,
+  "sem_regularizacao_pct": 17.2
+ },
+ "Lago Sul": {
+  "deficit_habitacional_pct": 2.0,
+  "sem_regularizacao_pct": 5.4
+ },
+ "Riacho Fundo": {
+  "deficit_habitacional_pct": 15.0,
+  "sem_regularizacao_pct": 25.5
+ },
+ "Lago Norte": {
+  "deficit_habitacional_pct": 10.0,
+  "sem_regularizacao_pct": 7.7
+ },
+ "Candangolândia": {
+  "deficit_habitacional_pct": 11.0,
+  "sem_regularizacao_pct": 15.4
+ },
+ "Águas Claras": {
+  "deficit_habitacional_pct": 3.0,
+  "sem_regularizacao_pct": 2.8
+ },
+ "Riacho Fundo II": {
+  "deficit_habitacional_pct": 13.0,
+  "sem_regularizacao_pct": 40.7
+ },
+ "Sudoeste/Octogonal": {
+  "deficit_habitacional_pct": 5.0,
+  "sem_regularizacao_pct": 3.4
+ },
+ "Varjão": {
+  "deficit_habitacional_pct": 28.0,
+  "sem_regularizacao_pct": 16.6
+ },
+ "Park Way": {
+  "deficit_habitacional_pct": 2.0,
+  "sem_regularizacao_pct": 2.6
+ },
+ "SCIA/Estrutural": {
+  "deficit_habitacional_pct": 34.0,
+  "sem_regularizacao_pct": 68.9
+ },
+ "Sobradinho II": {
+  "deficit_habitacional_pct": 19.0,
+  "sem_regularizacao_pct": 59.8
+ },
+ "Jardim Botânico": {
+  "deficit_habitacional_pct": 11.4,
+  "sem_regularizacao_pct": 43.9
+ },
+ "Itapoã": {
+  "deficit_habitacional_pct": 14.0,
+  "sem_regularizacao_pct": 48.5
+ },
+ "SIA": {
+  "deficit_habitacional_pct": 24.0,
+  "sem_regularizacao_pct": 36.4
+ },
+ "Vicente Pires": {
+  "deficit_habitacional_pct": 8.0,
+  "sem_regularizacao_pct": 57.4
+ },
+ "Fercal": {
+  "deficit_habitacional_pct": 6.0,
+  "sem_regularizacao_pct": 81.9
+ },
+ "Sol Nascente/Pôr do Sol": {
+  "deficit_habitacional_pct": 9.0,
+  "sem_regularizacao_pct": 91.5
+ },
+ "Arniqueira": {
+  "deficit_habitacional_pct": 14.0,
+  "sem_regularizacao_pct": 68.5
+ }
+}

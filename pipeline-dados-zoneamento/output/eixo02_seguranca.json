@@ -1,0 +1,299 @@
+{
+ "Plano Piloto": {
+  "taxa_homicidio_100mil_hab_2025": 5.51,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.85,
+  "roubo_pedestre_2016": null,
+  "roubo_pedestre_2024": null,
+  "roubo_pedestre_2025": null,
+  "roubo_pedestre_var_2016_2025": null,
+  "roubo_pedestre_var_2024_2025": null
+ },
+ "Gama": {
+  "taxa_homicidio_100mil_hab_2025": 6.41,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.0,
+  "roubo_pedestre_2016": 2040,
+  "roubo_pedestre_2024": 471,
+  "roubo_pedestre_2025": 368,
+  "roubo_pedestre_var_2016_2025": "-82%",
+  "roubo_pedestre_var_2024_2025": "-22%"
+ },
+ "Taguatinga": {
+  "taxa_homicidio_100mil_hab_2025": 4.74,
+  "taxa_feminicidio_100mil_mulheres_2025": 1.75,
+  "roubo_pedestre_2016": null,
+  "roubo_pedestre_2024": null,
+  "roubo_pedestre_2025": null,
+  "roubo_pedestre_var_2016_2025": null,
+  "roubo_pedestre_var_2024_2025": null
+ },
+ "Brazlândia": {
+  "taxa_homicidio_100mil_hab_2025": 11.4,
+  "taxa_feminicidio_100mil_mulheres_2025": 4.45,
+  "roubo_pedestre_2016": 460,
+  "roubo_pedestre_2024": 63,
+  "roubo_pedestre_2025": 63,
+  "roubo_pedestre_var_2016_2025": "-86%",
+  "roubo_pedestre_var_2024_2025": "0%"
+ },
+ "Sobradinho": {
+  "taxa_homicidio_100mil_hab_2025": 2.7,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.0,
+  "roubo_pedestre_2016": 853,
+  "roubo_pedestre_2024": 229,
+  "roubo_pedestre_2025": 126,
+  "roubo_pedestre_var_2016_2025": null,
+  "roubo_pedestre_var_2024_2025": null
+ },
+ "Planaltina": {
+  "taxa_homicidio_100mil_hab_2025": 10.61,
+  "taxa_feminicidio_100mil_mulheres_2025": 3.24,
+  "roubo_pedestre_2016": 2622,
+  "roubo_pedestre_2024": 536,
+  "roubo_pedestre_2025": 407,
+  "roubo_pedestre_var_2016_2025": "-84%",
+  "roubo_pedestre_var_2024_2025": "-24%"
+ },
+ "Paranoá": {
+  "taxa_homicidio_100mil_hab_2025": 22.34,
+  "taxa_feminicidio_100mil_mulheres_2025": 3.29,
+  "roubo_pedestre_2016": 1324,
+  "roubo_pedestre_2024": 449,
+  "roubo_pedestre_2025": 316,
+  "roubo_pedestre_var_2016_2025": "-76%",
+  "roubo_pedestre_var_2024_2025": "-30%"
+ },
+ "Núcleo Bandeirante": {
+  "taxa_homicidio_100mil_hab_2025": 0.0,
+  "taxa_feminicidio_100mil_mulheres_2025": 15.67,
+  "roubo_pedestre_2016": 227,
+  "roubo_pedestre_2024": 94,
+  "roubo_pedestre_2025": 69,
+  "roubo_pedestre_var_2016_2025": "-70%",
+  "roubo_pedestre_var_2024_2025": "-27%"
+ },
+ "Ceilândia": {
+  "taxa_homicidio_100mil_hab_2025": 9.64,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.63,
+  "roubo_pedestre_2016": 6202,
+  "roubo_pedestre_2024": 2199,
+  "roubo_pedestre_2025": 2171,
+  "roubo_pedestre_var_2016_2025": "-65%",
+  "roubo_pedestre_var_2024_2025": "-1%"
+ },
+ "Guará": {
+  "taxa_homicidio_100mil_hab_2025": 0.75,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.0,
+  "roubo_pedestre_2016": 1075,
+  "roubo_pedestre_2024": 312,
+  "roubo_pedestre_2025": 225,
+  "roubo_pedestre_var_2016_2025": "-79%",
+  "roubo_pedestre_var_2024_2025": "-28%"
+ },
+ "Cruzeiro": {
+  "taxa_homicidio_100mil_hab_2025": 0.0,
+  "taxa_feminicidio_100mil_mulheres_2025": 6.55,
+  "roubo_pedestre_2016": 119,
+  "roubo_pedestre_2024": 25,
+  "roubo_pedestre_2025": 14,
+  "roubo_pedestre_var_2016_2025": "-88%",
+  "roubo_pedestre_var_2024_2025": "-44%"
+ },
+ "Samambaia": {
+  "taxa_homicidio_100mil_hab_2025": 5.46,
+  "taxa_feminicidio_100mil_mulheres_2025": 1.6,
+  "roubo_pedestre_2016": 4954,
+  "roubo_pedestre_2024": 1122,
+  "roubo_pedestre_2025": 1023,
+  "roubo_pedestre_var_2016_2025": "-79%",
+  "roubo_pedestre_var_2024_2025": "-9%"
+ },
+ "Santa Maria": {
+  "taxa_homicidio_100mil_hab_2025": 8.63,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.0,
+  "roubo_pedestre_2016": 2442,
+  "roubo_pedestre_2024": 630,
+  "roubo_pedestre_2025": 550,
+  "roubo_pedestre_var_2016_2025": "-77%",
+  "roubo_pedestre_var_2024_2025": "-13%"
+ },
+ "São Sebastião": {
+  "taxa_homicidio_100mil_hab_2025": 15.42,
+  "taxa_feminicidio_100mil_mulheres_2025": 3.74,
+  "roubo_pedestre_2016": 1269,
+  "roubo_pedestre_2024": 319,
+  "roubo_pedestre_2025": 328,
+  "roubo_pedestre_var_2016_2025": "-74%",
+  "roubo_pedestre_var_2024_2025": "3%"
+ },
+ "Recanto das Emas": {
+  "taxa_homicidio_100mil_hab_2025": 8.96,
+  "taxa_feminicidio_100mil_mulheres_2025": 3.13,
+  "roubo_pedestre_2016": 2666,
+  "roubo_pedestre_2024": 530,
+  "roubo_pedestre_2025": 401,
+  "roubo_pedestre_var_2016_2025": "-85%",
+  "roubo_pedestre_var_2024_2025": "-24%"
+ },
+ "Lago Sul": {
+  "taxa_homicidio_100mil_hab_2025": 0.0,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.0,
+  "roubo_pedestre_2016": 62,
+  "roubo_pedestre_2024": 22,
+  "roubo_pedestre_2025": 7,
+  "roubo_pedestre_var_2016_2025": "-89%",
+  "roubo_pedestre_var_2024_2025": "-68%"
+ },
+ "Riacho Fundo": {
+  "taxa_homicidio_100mil_hab_2025": 6.98,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.0,
+  "roubo_pedestre_2016": 438,
+  "roubo_pedestre_2024": 114,
+  "roubo_pedestre_2025": 69,
+  "roubo_pedestre_var_2016_2025": "-84%",
+  "roubo_pedestre_var_2024_2025": "-39%"
+ },
+ "Lago Norte": {
+  "taxa_homicidio_100mil_hab_2025": 2.18,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.0,
+  "roubo_pedestre_2016": 90,
+  "roubo_pedestre_2024": 38,
+  "roubo_pedestre_2025": 19,
+  "roubo_pedestre_var_2016_2025": "-79%",
+  "roubo_pedestre_var_2024_2025": "-50%"
+ },
+ "Candangolândia": {
+  "taxa_homicidio_100mil_hab_2025": 0.0,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.0,
+  "roubo_pedestre_2016": 93,
+  "roubo_pedestre_2024": 25,
+  "roubo_pedestre_2025": 22,
+  "roubo_pedestre_var_2016_2025": "-76%",
+  "roubo_pedestre_var_2024_2025": "-12%"
+ },
+ "Águas Claras": {
+  "taxa_homicidio_100mil_hab_2025": 1.35,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.0,
+  "roubo_pedestre_2016": 544,
+  "roubo_pedestre_2024": 193,
+  "roubo_pedestre_2025": 177,
+  "roubo_pedestre_var_2016_2025": "-67%",
+  "roubo_pedestre_var_2024_2025": "-8%"
+ },
+ "Riacho Fundo II": {
+  "taxa_homicidio_100mil_hab_2025": 1.36,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.0,
+  "roubo_pedestre_2016": 536,
+  "roubo_pedestre_2024": 164,
+  "roubo_pedestre_2025": 128,
+  "roubo_pedestre_var_2016_2025": "-76%",
+  "roubo_pedestre_var_2024_2025": "-22%"
+ },
+ "Sudoeste/Octogonal": {
+  "taxa_homicidio_100mil_hab_2025": 0.0,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.0,
+  "roubo_pedestre_2016": null,
+  "roubo_pedestre_2024": null,
+  "roubo_pedestre_2025": null,
+  "roubo_pedestre_var_2016_2025": null,
+  "roubo_pedestre_var_2024_2025": null
+ },
+ "Varjão": {
+  "taxa_homicidio_100mil_hab_2025": 31.76,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.0,
+  "roubo_pedestre_2016": null,
+  "roubo_pedestre_2024": null,
+  "roubo_pedestre_2025": null,
+  "roubo_pedestre_var_2016_2025": null,
+  "roubo_pedestre_var_2024_2025": null
+ },
+ "Park Way": {
+  "taxa_homicidio_100mil_hab_2025": 0.0,
+  "taxa_feminicidio_100mil_mulheres_2025": 8.31,
+  "roubo_pedestre_2016": 39,
+  "roubo_pedestre_2024": 11,
+  "roubo_pedestre_2025": 12,
+  "roubo_pedestre_var_2016_2025": "-69%",
+  "roubo_pedestre_var_2024_2025": "9%"
+ },
+ "SCIA/Estrutural": {
+  "taxa_homicidio_100mil_hab_2025": 35.13,
+  "taxa_feminicidio_100mil_mulheres_2025": 9.88,
+  "roubo_pedestre_2016": 611,
+  "roubo_pedestre_2024": 194,
+  "roubo_pedestre_2025": 136,
+  "roubo_pedestre_var_2016_2025": "-78%",
+  "roubo_pedestre_var_2024_2025": "-30%"
+ },
+ "Sobradinho II": {
+  "taxa_homicidio_100mil_hab_2025": 9.55,
+  "taxa_feminicidio_100mil_mulheres_2025": 2.27,
+  "roubo_pedestre_2016": null,
+  "roubo_pedestre_2024": null,
+  "roubo_pedestre_2025": null,
+  "roubo_pedestre_var_2016_2025": null,
+  "roubo_pedestre_var_2024_2025": null
+ },
+ "Jardim Botânico": {
+  "taxa_homicidio_100mil_hab_2025": 0.0,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.0,
+  "roubo_pedestre_2016": 13,
+  "roubo_pedestre_2024": 19,
+  "roubo_pedestre_2025": 10,
+  "roubo_pedestre_var_2016_2025": "-23%",
+  "roubo_pedestre_var_2024_2025": "-47%"
+ },
+ "Itapoã": {
+  "taxa_homicidio_100mil_hab_2025": 15.67,
+  "taxa_feminicidio_100mil_mulheres_2025": 5.56,
+  "roubo_pedestre_2016": 1360,
+  "roubo_pedestre_2024": 345,
+  "roubo_pedestre_2025": 256,
+  "roubo_pedestre_var_2016_2025": "-81%",
+  "roubo_pedestre_var_2024_2025": "-26%"
+ },
+ "SIA": {
+  "taxa_homicidio_100mil_hab_2025": null,
+  "taxa_feminicidio_100mil_mulheres_2025": null,
+  "roubo_pedestre_2016": 125,
+  "roubo_pedestre_2024": 24,
+  "roubo_pedestre_2025": 35,
+  "roubo_pedestre_var_2016_2025": "-72%",
+  "roubo_pedestre_var_2024_2025": "46%"
+ },
+ "Vicente Pires": {
+  "taxa_homicidio_100mil_hab_2025": 1.82,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.0,
+  "roubo_pedestre_2016": null,
+  "roubo_pedestre_2024": null,
+  "roubo_pedestre_2025": null,
+  "roubo_pedestre_var_2016_2025": null,
+  "roubo_pedestre_var_2024_2025": null
+ },
+ "Fercal": {
+  "taxa_homicidio_100mil_hab_2025": 31.33,
+  "taxa_feminicidio_100mil_mulheres_2025": 20.64,
+  "roubo_pedestre_2016": 27,
+  "roubo_pedestre_2024": 11,
+  "roubo_pedestre_2025": 6,
+  "roubo_pedestre_var_2016_2025": "-78%",
+  "roubo_pedestre_var_2024_2025": "-45%"
+ },
+ "Sol Nascente/Pôr do Sol": {
+  "taxa_homicidio_100mil_hab_2025": 16.69,
+  "taxa_feminicidio_100mil_mulheres_2025": 3.46,
+  "roubo_pedestre_2016": null,
+  "roubo_pedestre_2024": null,
+  "roubo_pedestre_2025": null,
+  "roubo_pedestre_var_2016_2025": null,
+  "roubo_pedestre_var_2024_2025": null
+ },
+ "Arniqueira": {
+  "taxa_homicidio_100mil_hab_2025": 4.26,
+  "taxa_feminicidio_100mil_mulheres_2025": 0.0,
+  "roubo_pedestre_2016": null,
+  "roubo_pedestre_2024": 44,
+  "roubo_pedestre_2025": 23,
+  "roubo_pedestre_var_2016_2025": "*",
+  "roubo_pedestre_var_2024_2025": "-48%"
+ }
+}

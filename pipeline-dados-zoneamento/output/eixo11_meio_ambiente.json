@@ -1,0 +1,266 @@
+{
+ "Plano Piloto": {
+  "jardins_parques_percebido_pct": 92.2,
+  "drenagem_percebido_pct": 97.7,
+  "ruas_alagadas_percebido_pct": 10,
+  "parques_ibram_qtd": 9,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Gama": {
+  "jardins_parques_percebido_pct": 62.3,
+  "drenagem_percebido_pct": 83.5,
+  "ruas_alagadas_percebido_pct": 30.9,
+  "parques_ibram_qtd": 3,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Taguatinga": {
+  "jardins_parques_percebido_pct": 59.2,
+  "drenagem_percebido_pct": 84,
+  "ruas_alagadas_percebido_pct": 26.8,
+  "parques_ibram_qtd": 4,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Brazlândia": {
+  "jardins_parques_percebido_pct": 25.1,
+  "drenagem_percebido_pct": 92.9,
+  "ruas_alagadas_percebido_pct": 5.8,
+  "parques_ibram_qtd": 1,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Sobradinho": {
+  "jardins_parques_percebido_pct": 54.3,
+  "drenagem_percebido_pct": 75.2,
+  "ruas_alagadas_percebido_pct": 14.7,
+  "parques_ibram_qtd": 4,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Planaltina": {
+  "jardins_parques_percebido_pct": 26.6,
+  "drenagem_percebido_pct": 65.3,
+  "ruas_alagadas_percebido_pct": 17.3,
+  "parques_ibram_qtd": 9,
+  "area_de_risco_monitorada": true,
+  "area_de_risco_maior_atencao": false
+ },
+ "Paranoá": {
+  "jardins_parques_percebido_pct": 53.8,
+  "drenagem_percebido_pct": 84.7,
+  "ruas_alagadas_percebido_pct": 14.8,
+  "parques_ibram_qtd": 3,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Núcleo Bandeirante": {
+  "jardins_parques_percebido_pct": 81.4,
+  "drenagem_percebido_pct": 87.6,
+  "ruas_alagadas_percebido_pct": 22.2,
+  "parques_ibram_qtd": 1,
+  "area_de_risco_monitorada": true,
+  "area_de_risco_maior_atencao": false
+ },
+ "Ceilândia": {
+  "jardins_parques_percebido_pct": 52.7,
+  "drenagem_percebido_pct": 69.5,
+  "ruas_alagadas_percebido_pct": 19.8,
+  "parques_ibram_qtd": 5,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Guará": {
+  "jardins_parques_percebido_pct": 74.6,
+  "drenagem_percebido_pct": 87.9,
+  "ruas_alagadas_percebido_pct": 10.6,
+  "parques_ibram_qtd": 3,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Cruzeiro": {
+  "jardins_parques_percebido_pct": 91.5,
+  "drenagem_percebido_pct": 94.2,
+  "ruas_alagadas_percebido_pct": 7.3,
+  "parques_ibram_qtd": 0,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Samambaia": {
+  "jardins_parques_percebido_pct": 47.5,
+  "drenagem_percebido_pct": 73.1,
+  "ruas_alagadas_percebido_pct": 11.4,
+  "parques_ibram_qtd": 2,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Santa Maria": {
+  "jardins_parques_percebido_pct": 54.3,
+  "drenagem_percebido_pct": 69.4,
+  "ruas_alagadas_percebido_pct": 18.5,
+  "parques_ibram_qtd": 1,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "São Sebastião": {
+  "jardins_parques_percebido_pct": 37.1,
+  "drenagem_percebido_pct": 42.5,
+  "ruas_alagadas_percebido_pct": 36.7,
+  "parques_ibram_qtd": 1,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Recanto das Emas": {
+  "jardins_parques_percebido_pct": 30.4,
+  "drenagem_percebido_pct": 79,
+  "ruas_alagadas_percebido_pct": 11.9,
+  "parques_ibram_qtd": 1,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Lago Sul": {
+  "jardins_parques_percebido_pct": 79.9,
+  "drenagem_percebido_pct": 94.2,
+  "ruas_alagadas_percebido_pct": 5,
+  "parques_ibram_qtd": 9,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Riacho Fundo": {
+  "jardins_parques_percebido_pct": 80.6,
+  "drenagem_percebido_pct": 71.6,
+  "ruas_alagadas_percebido_pct": 20.5,
+  "parques_ibram_qtd": 1,
+  "area_de_risco_monitorada": true,
+  "area_de_risco_maior_atencao": false
+ },
+ "Lago Norte": {
+  "jardins_parques_percebido_pct": 54.8,
+  "drenagem_percebido_pct": 83.4,
+  "ruas_alagadas_percebido_pct": 14.7,
+  "parques_ibram_qtd": 2,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Candangolândia": {
+  "jardins_parques_percebido_pct": 71.6,
+  "drenagem_percebido_pct": 64.9,
+  "ruas_alagadas_percebido_pct": 12,
+  "parques_ibram_qtd": 1,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Águas Claras": {
+  "jardins_parques_percebido_pct": 88,
+  "drenagem_percebido_pct": 98.6,
+  "ruas_alagadas_percebido_pct": 7.5,
+  "parques_ibram_qtd": 2,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Riacho Fundo II": {
+  "jardins_parques_percebido_pct": 59.5,
+  "drenagem_percebido_pct": 83.9,
+  "ruas_alagadas_percebido_pct": 7,
+  "parques_ibram_qtd": 0,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Sudoeste/Octogonal": {
+  "jardins_parques_percebido_pct": 99,
+  "drenagem_percebido_pct": 97,
+  "ruas_alagadas_percebido_pct": "(***)",
+  "parques_ibram_qtd": 2,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Varjão": {
+  "jardins_parques_percebido_pct": 52.4,
+  "drenagem_percebido_pct": 68,
+  "ruas_alagadas_percebido_pct": 31.7,
+  "parques_ibram_qtd": 0,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Park Way": {
+  "jardins_parques_percebido_pct": 80.8,
+  "drenagem_percebido_pct": 74.3,
+  "ruas_alagadas_percebido_pct": 4.9,
+  "parques_ibram_qtd": 3,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "SCIA/Estrutural": {
+  "jardins_parques_percebido_pct": 26,
+  "drenagem_percebido_pct": 32.3,
+  "ruas_alagadas_percebido_pct": 53.8,
+  "parques_ibram_qtd": 1,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Sobradinho II": {
+  "jardins_parques_percebido_pct": 21.2,
+  "drenagem_percebido_pct": 61.4,
+  "ruas_alagadas_percebido_pct": 22.8,
+  "parques_ibram_qtd": 0,
+  "area_de_risco_monitorada": true,
+  "area_de_risco_maior_atencao": true
+ },
+ "Jardim Botânico": {
+  "jardins_parques_percebido_pct": 79.2,
+  "drenagem_percebido_pct": 89,
+  "ruas_alagadas_percebido_pct": 12.2,
+  "parques_ibram_qtd": 2,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Itapoã": {
+  "jardins_parques_percebido_pct": 12,
+  "drenagem_percebido_pct": 58.7,
+  "ruas_alagadas_percebido_pct": 23.1,
+  "parques_ibram_qtd": 1,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "SIA": {
+  "jardins_parques_percebido_pct": 54.1,
+  "drenagem_percebido_pct": 80.4,
+  "ruas_alagadas_percebido_pct": 25,
+  "parques_ibram_qtd": 0,
+  "area_de_risco_monitorada": false,
+  "area_de_risco_maior_atencao": false
+ },
+ "Vicente Pires": {
+  "jardins_parques_percebido_pct": 47.7,
+  "drenagem_percebido_pct": 75.7,
+  "ruas_alagadas_percebido_pct": 30.5,
+  "parques_ibram_qtd": 1,
+  "area_de_risco_monitorada": true,
+  "area_de_risco_maior_atencao": true
+ },
+ "Fercal": {
+  "jardins_parques_percebido_pct": 13,
+  "drenagem_percebido_pct": 9.2,
+  "ruas_alagadas_percebido_pct": 41.9,
+  "parques_ibram_qtd": 0,
+  "area_de_risco_monitorada": true,
+  "area_de_risco_maior_atencao": true
+ },
+ "Sol Nascente/Pôr do Sol": {
+  "jardins_parques_percebido_pct": 7.5,
+  "drenagem_percebido_pct": 38.1,
+  "ruas_alagadas_percebido_pct": 44.5,
+  "parques_ibram_qtd": 0,
+  "area_de_risco_monitorada": true,
+  "area_de_risco_maior_atencao": true
+ },
+ "Arniqueira": {
+  "jardins_parques_percebido_pct": 51.4,
+  "drenagem_percebido_pct": 68.8,
+  "ruas_alagadas_percebido_pct": 22.7,
+  "parques_ibram_qtd": 0,
+  "area_de_risco_monitorada": true,
+  "area_de_risco_maior_atencao": true
+ }
+}

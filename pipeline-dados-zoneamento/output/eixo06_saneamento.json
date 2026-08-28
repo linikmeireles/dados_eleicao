@@ -1,0 +1,167 @@
+{
+ "Plano Piloto": {
+  "agua_rede_geral_pct": 99.9,
+  "esgoto_rede_geral_pct": 99.9,
+  "lixo_coleta_direta_pct": 96.2
+ },
+ "Gama": {
+  "agua_rede_geral_pct": 97.4,
+  "esgoto_rede_geral_pct": 95.8,
+  "lixo_coleta_direta_pct": 96.4
+ },
+ "Taguatinga": {
+  "agua_rede_geral_pct": 100,
+  "esgoto_rede_geral_pct": 98.4,
+  "lixo_coleta_direta_pct": 99.8
+ },
+ "Brazlândia": {
+  "agua_rede_geral_pct": 97.3,
+  "esgoto_rede_geral_pct": 97.5,
+  "lixo_coleta_direta_pct": 98
+ },
+ "Sobradinho": {
+  "agua_rede_geral_pct": 90.8,
+  "esgoto_rede_geral_pct": 87.8,
+  "lixo_coleta_direta_pct": 96.1
+ },
+ "Planaltina": {
+  "agua_rede_geral_pct": 99.4,
+  "esgoto_rede_geral_pct": 88.4,
+  "lixo_coleta_direta_pct": 95.8
+ },
+ "Paranoá": {
+  "agua_rede_geral_pct": 92.2,
+  "esgoto_rede_geral_pct": 91.8,
+  "lixo_coleta_direta_pct": 87.1
+ },
+ "Núcleo Bandeirante": {
+  "agua_rede_geral_pct": 99.6,
+  "esgoto_rede_geral_pct": 99.1,
+  "lixo_coleta_direta_pct": 98
+ },
+ "Ceilândia": {
+  "agua_rede_geral_pct": 99.6,
+  "esgoto_rede_geral_pct": 99.6,
+  "lixo_coleta_direta_pct": 99.8
+ },
+ "Guará": {
+  "agua_rede_geral_pct": 99.7,
+  "esgoto_rede_geral_pct": 98.1,
+  "lixo_coleta_direta_pct": 98.6
+ },
+ "Cruzeiro": {
+  "agua_rede_geral_pct": 100,
+  "esgoto_rede_geral_pct": 100,
+  "lixo_coleta_direta_pct": 89.9
+ },
+ "Samambaia": {
+  "agua_rede_geral_pct": 100,
+  "esgoto_rede_geral_pct": 99.6,
+  "lixo_coleta_direta_pct": 98.7
+ },
+ "Santa Maria": {
+  "agua_rede_geral_pct": 99.7,
+  "esgoto_rede_geral_pct": 98.5,
+  "lixo_coleta_direta_pct": 98.8
+ },
+ "São Sebastião": {
+  "agua_rede_geral_pct": 73,
+  "esgoto_rede_geral_pct": 69.8,
+  "lixo_coleta_direta_pct": 79.7
+ },
+ "Recanto das Emas": {
+  "agua_rede_geral_pct": 99.8,
+  "esgoto_rede_geral_pct": 98.2,
+  "lixo_coleta_direta_pct": 94
+ },
+ "Lago Sul": {
+  "agua_rede_geral_pct": 99,
+  "esgoto_rede_geral_pct": 93.3,
+  "lixo_coleta_direta_pct": 98.6
+ },
+ "Riacho Fundo": {
+  "agua_rede_geral_pct": 99.8,
+  "esgoto_rede_geral_pct": 93.6,
+  "lixo_coleta_direta_pct": 97.8
+ },
+ "Lago Norte": {
+  "agua_rede_geral_pct": 94.9,
+  "esgoto_rede_geral_pct": 92.3,
+  "lixo_coleta_direta_pct": 94.9
+ },
+ "Candangolândia": {
+  "agua_rede_geral_pct": 100,
+  "esgoto_rede_geral_pct": 99.4,
+  "lixo_coleta_direta_pct": 99.4
+ },
+ "Águas Claras": {
+  "agua_rede_geral_pct": 99.9,
+  "esgoto_rede_geral_pct": 99.9,
+  "lixo_coleta_direta_pct": 98.6
+ },
+ "Riacho Fundo II": {
+  "agua_rede_geral_pct": 98.9,
+  "esgoto_rede_geral_pct": 96.5,
+  "lixo_coleta_direta_pct": 88.9
+ },
+ "Sudoeste/Octogonal": {
+  "agua_rede_geral_pct": 100,
+  "esgoto_rede_geral_pct": 100,
+  "lixo_coleta_direta_pct": 97.3
+ },
+ "Varjão": {
+  "agua_rede_geral_pct": 99.8,
+  "esgoto_rede_geral_pct": 99.6,
+  "lixo_coleta_direta_pct": 98.3
+ },
+ "Park Way": {
+  "agua_rede_geral_pct": 98.3,
+  "esgoto_rede_geral_pct": 53.8,
+  "lixo_coleta_direta_pct": 90.8
+ },
+ "SCIA/Estrutural": {
+  "agua_rede_geral_pct": 79.3,
+  "esgoto_rede_geral_pct": 77.5,
+  "lixo_coleta_direta_pct": 81.3
+ },
+ "Sobradinho II": {
+  "agua_rede_geral_pct": 93,
+  "esgoto_rede_geral_pct": 87.7,
+  "lixo_coleta_direta_pct": 96.3
+ },
+ "Jardim Botânico": {
+  "agua_rede_geral_pct": 88.7,
+  "esgoto_rede_geral_pct": 60.9,
+  "lixo_coleta_direta_pct": 97.3
+ },
+ "Itapoã": {
+  "agua_rede_geral_pct": 99.4,
+  "esgoto_rede_geral_pct": 98.9,
+  "lixo_coleta_direta_pct": 99.6
+ },
+ "SIA": {
+  "agua_rede_geral_pct": 100,
+  "esgoto_rede_geral_pct": 99.7,
+  "lixo_coleta_direta_pct": 99.3
+ },
+ "Vicente Pires": {
+  "agua_rede_geral_pct": 88.3,
+  "esgoto_rede_geral_pct": 84.8,
+  "lixo_coleta_direta_pct": 60.9
+ },
+ "Fercal": {
+  "agua_rede_geral_pct": 61.4,
+  "esgoto_rede_geral_pct": 20,
+  "lixo_coleta_direta_pct": 83.6
+ },
+ "Sol Nascente/Pôr do Sol": {
+  "agua_rede_geral_pct": 95.4,
+  "esgoto_rede_geral_pct": 71.6,
+  "lixo_coleta_direta_pct": 93.5
+ },
+ "Arniqueira": {
+  "agua_rede_geral_pct": 98,
+  "esgoto_rede_geral_pct": 56.7,
+  "lixo_coleta_direta_pct": 70.7
+ }
+}

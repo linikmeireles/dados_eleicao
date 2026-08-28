@@ -1,0 +1,200 @@
+{
+ "Plano Piloto": {
+  "ivs_df_2018": 0.09,
+  "ivs_df_2021": 0.11,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Gama": {
+  "ivs_df_2018": 0.29,
+  "ivs_df_2021": 0.27,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Taguatinga": {
+  "ivs_df_2018": 0.29,
+  "ivs_df_2021": 0.21,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Brazlândia": {
+  "ivs_df_2018": 0.4,
+  "ivs_df_2021": 0.41,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Sobradinho": {
+  "ivs_df_2018": 0.26,
+  "ivs_df_2021": 0.23,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Planaltina": {
+  "ivs_df_2018": 0.48,
+  "ivs_df_2021": 0.48,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Paranoá": {
+  "ivs_df_2018": 0.45,
+  "ivs_df_2021": 0.53,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Núcleo Bandeirante": {
+  "ivs_df_2018": 0.29,
+  "ivs_df_2021": 0.21,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Ceilândia": {
+  "ivs_df_2018": 0.37,
+  "ivs_df_2021": 0.39,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Guará": {
+  "ivs_df_2018": 0.19,
+  "ivs_df_2021": 0.14,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Cruzeiro": {
+  "ivs_df_2018": 0.08,
+  "ivs_df_2021": 0.12,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Samambaia": {
+  "ivs_df_2018": 0.38,
+  "ivs_df_2021": 0.38,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Santa Maria": {
+  "ivs_df_2018": null,
+  "ivs_df_2021": null,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "São Sebastião": {
+  "ivs_df_2018": 0.44,
+  "ivs_df_2021": 0.54,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Recanto das Emas": {
+  "ivs_df_2018": 0.4,
+  "ivs_df_2021": 0.48,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Lago Sul": {
+  "ivs_df_2018": 0.09,
+  "ivs_df_2021": 0.07,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Riacho Fundo": {
+  "ivs_df_2018": 0.26,
+  "ivs_df_2021": 0.31,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Lago Norte": {
+  "ivs_df_2018": 0.19,
+  "ivs_df_2021": 0.15,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Candangolândia": {
+  "ivs_df_2018": 0.26,
+  "ivs_df_2021": 0.26,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Águas Claras": {
+  "ivs_df_2018": 0.08,
+  "ivs_df_2021": 0.12,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Riacho Fundo II": {
+  "ivs_df_2018": 0.33,
+  "ivs_df_2021": 0.3,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Sudoeste/Octogonal": {
+  "ivs_df_2018": 0.08,
+  "ivs_df_2021": 0.09,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Varjão": {
+  "ivs_df_2018": 0.55,
+  "ivs_df_2021": 0.37,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Park Way": {
+  "ivs_df_2018": 0.14,
+  "ivs_df_2021": 0.15,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "SCIA/Estrutural": {
+  "ivs_df_2018": 0.79,
+  "ivs_df_2021": 0.75,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Sobradinho II": {
+  "ivs_df_2018": 0.29,
+  "ivs_df_2021": 0.35,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Jardim Botânico": {
+  "ivs_df_2018": 0.17,
+  "ivs_df_2021": 0.17,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Itapoã": {
+  "ivs_df_2018": 0.58,
+  "ivs_df_2021": 0.49,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "SIA": {
+  "ivs_df_2018": 0.12,
+  "ivs_df_2021": 0.14,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Vicente Pires": {
+  "ivs_df_2018": 0.28,
+  "ivs_df_2021": 0.27,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Fercal": {
+  "ivs_df_2018": 0.61,
+  "ivs_df_2021": 0.6,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Sol Nascente/Pôr do Sol": {
+  "ivs_df_2018": 0.66,
+  "ivs_df_2021": 0.71,
+  "cras_qtd": null,
+  "creas_qtd": null
+ },
+ "Arniqueira": {
+  "ivs_df_2018": 0.29,
+  "ivs_df_2021": 0.35,
+  "cras_qtd": null,
+  "creas_qtd": null
+ }
+}

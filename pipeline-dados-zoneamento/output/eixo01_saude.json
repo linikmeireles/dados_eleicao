@@ -1,0 +1,200 @@
+{
+ "Plano Piloto": {
+  "dependencia_sus_pct": 30.8,
+  "regiao_de_saude": "Central",
+  "leitos_internacao_regiao_saude_2022": 310,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 1399902
+ },
+ "Gama": {
+  "dependencia_sus_pct": 69.1,
+  "regiao_de_saude": "Sul",
+  "leitos_internacao_regiao_saude_2022": 693,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 3032571
+ },
+ "Taguatinga": {
+  "dependencia_sus_pct": 64.2,
+  "regiao_de_saude": "Sudoeste",
+  "leitos_internacao_regiao_saude_2022": 566,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 4792103
+ },
+ "Brazlândia": {
+  "dependencia_sus_pct": 83.3,
+  "regiao_de_saude": "Oeste",
+  "leitos_internacao_regiao_saude_2022": 616,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 4193955
+ },
+ "Sobradinho": {
+  "dependencia_sus_pct": 62,
+  "regiao_de_saude": "Norte",
+  "leitos_internacao_regiao_saude_2022": 335,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 4440203
+ },
+ "Planaltina": {
+  "dependencia_sus_pct": 84.2,
+  "regiao_de_saude": "Norte",
+  "leitos_internacao_regiao_saude_2022": 335,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 4440203
+ },
+ "Paranoá": {
+  "dependencia_sus_pct": 93.4,
+  "regiao_de_saude": "Leste",
+  "leitos_internacao_regiao_saude_2022": 219,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 2869372
+ },
+ "Núcleo Bandeirante": {
+  "dependencia_sus_pct": 68.3,
+  "regiao_de_saude": "Centro-Sul",
+  "leitos_internacao_regiao_saude_2022": 58,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 2658126
+ },
+ "Ceilândia": {
+  "dependencia_sus_pct": 85.1,
+  "regiao_de_saude": "Oeste",
+  "leitos_internacao_regiao_saude_2022": 616,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 4193955
+ },
+ "Guará": {
+  "dependencia_sus_pct": 41.3,
+  "regiao_de_saude": "Centro-Sul",
+  "leitos_internacao_regiao_saude_2022": 58,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 2658126
+ },
+ "Cruzeiro": {
+  "dependencia_sus_pct": 38,
+  "regiao_de_saude": "Central",
+  "leitos_internacao_regiao_saude_2022": 310,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 1399902
+ },
+ "Samambaia": {
+  "dependencia_sus_pct": 80.8,
+  "regiao_de_saude": "Sudoeste",
+  "leitos_internacao_regiao_saude_2022": 566,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 4792103
+ },
+ "Santa Maria": {
+  "dependencia_sus_pct": 80.8,
+  "regiao_de_saude": "Sul",
+  "leitos_internacao_regiao_saude_2022": 693,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 3032571
+ },
+ "São Sebastião": {
+  "dependencia_sus_pct": 92,
+  "regiao_de_saude": "Leste",
+  "leitos_internacao_regiao_saude_2022": 219,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 2869372
+ },
+ "Recanto das Emas": {
+  "dependencia_sus_pct": 83.4,
+  "regiao_de_saude": "Sudoeste",
+  "leitos_internacao_regiao_saude_2022": 566,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 4792103
+ },
+ "Lago Sul": {
+  "dependencia_sus_pct": 8.8,
+  "regiao_de_saude": "Central",
+  "leitos_internacao_regiao_saude_2022": 310,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 1399902
+ },
+ "Riacho Fundo": {
+  "dependencia_sus_pct": 70.1,
+  "regiao_de_saude": "Centro-Sul",
+  "leitos_internacao_regiao_saude_2022": 58,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 2658126
+ },
+ "Lago Norte": {
+  "dependencia_sus_pct": 34,
+  "regiao_de_saude": "Central",
+  "leitos_internacao_regiao_saude_2022": 310,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 1399902
+ },
+ "Candangolândia": {
+  "dependencia_sus_pct": 70.5,
+  "regiao_de_saude": "Centro-Sul",
+  "leitos_internacao_regiao_saude_2022": 58,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 2658126
+ },
+ "Águas Claras": {
+  "dependencia_sus_pct": 17.1,
+  "regiao_de_saude": "Sudoeste",
+  "leitos_internacao_regiao_saude_2022": 566,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 4792103
+ },
+ "Riacho Fundo II": {
+  "dependencia_sus_pct": 81.7,
+  "regiao_de_saude": "Centro-Sul",
+  "leitos_internacao_regiao_saude_2022": 58,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 2658126
+ },
+ "Sudoeste/Octogonal": {
+  "dependencia_sus_pct": 13.8,
+  "regiao_de_saude": "Central",
+  "leitos_internacao_regiao_saude_2022": 310,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 1399902
+ },
+ "Varjão": {
+  "dependencia_sus_pct": 90.5,
+  "regiao_de_saude": "Central",
+  "leitos_internacao_regiao_saude_2022": 310,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 1399902
+ },
+ "Park Way": {
+  "dependencia_sus_pct": 24.2,
+  "regiao_de_saude": "Centro-Sul",
+  "leitos_internacao_regiao_saude_2022": 58,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 2658126
+ },
+ "SCIA/Estrutural": {
+  "dependencia_sus_pct": 95,
+  "regiao_de_saude": "Centro-Sul",
+  "leitos_internacao_regiao_saude_2022": 58,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 2658126
+ },
+ "Sobradinho II": {
+  "dependencia_sus_pct": 82.2,
+  "regiao_de_saude": "Norte",
+  "leitos_internacao_regiao_saude_2022": 335,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 4440203
+ },
+ "Jardim Botânico": {
+  "dependencia_sus_pct": 30.7,
+  "regiao_de_saude": "Leste",
+  "leitos_internacao_regiao_saude_2022": 219,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 2869372
+ },
+ "Itapoã": {
+  "dependencia_sus_pct": 95.6,
+  "regiao_de_saude": "Leste",
+  "leitos_internacao_regiao_saude_2022": 219,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 2869372
+ },
+ "SIA": {
+  "dependencia_sus_pct": 39.9,
+  "regiao_de_saude": "Centro-Sul",
+  "leitos_internacao_regiao_saude_2022": 58,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 2658126
+ },
+ "Vicente Pires": {
+  "dependencia_sus_pct": 50.8,
+  "regiao_de_saude": "Sudoeste",
+  "leitos_internacao_regiao_saude_2022": 566,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 4792103
+ },
+ "Fercal": {
+  "dependencia_sus_pct": 87,
+  "regiao_de_saude": "Norte",
+  "leitos_internacao_regiao_saude_2022": 335,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 4440203
+ },
+ "Sol Nascente/Pôr do Sol": {
+  "dependencia_sus_pct": 94,
+  "regiao_de_saude": "Oeste",
+  "leitos_internacao_regiao_saude_2022": 616,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 4193955
+ },
+ "Arniqueira": {
+  "dependencia_sus_pct": 65,
+  "regiao_de_saude": "Sudoeste",
+  "leitos_internacao_regiao_saude_2022": 566,
+  "producao_ambulatorial_aps_regiao_saude_total_18_22": 4792103
+ }
+}

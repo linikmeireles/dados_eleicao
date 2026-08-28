@@ -1,0 +1,167 @@
+{
+ "Plano Piloto": {
+  "pavimentacao_pct": 99.6,
+  "iluminacao_publica_pct": 98.3,
+  "drenagem_pct": 97.7
+ },
+ "Gama": {
+  "pavimentacao_pct": 95.8,
+  "iluminacao_publica_pct": 93.4,
+  "drenagem_pct": 83.5
+ },
+ "Taguatinga": {
+  "pavimentacao_pct": 98.3,
+  "iluminacao_publica_pct": 98.4,
+  "drenagem_pct": 84
+ },
+ "Brazlândia": {
+  "pavimentacao_pct": 97.3,
+  "iluminacao_publica_pct": 96.4,
+  "drenagem_pct": 92.9
+ },
+ "Sobradinho": {
+  "pavimentacao_pct": 94.6,
+  "iluminacao_publica_pct": 96.1,
+  "drenagem_pct": 75.2
+ },
+ "Planaltina": {
+  "pavimentacao_pct": 94.2,
+  "iluminacao_publica_pct": 94.8,
+  "drenagem_pct": 65.3
+ },
+ "Paranoá": {
+  "pavimentacao_pct": 90.7,
+  "iluminacao_publica_pct": 92.7,
+  "drenagem_pct": 84.7
+ },
+ "Núcleo Bandeirante": {
+  "pavimentacao_pct": 98.3,
+  "iluminacao_publica_pct": 97.6,
+  "drenagem_pct": 87.6
+ },
+ "Ceilândia": {
+  "pavimentacao_pct": 99,
+  "iluminacao_publica_pct": 98.8,
+  "drenagem_pct": 69.5
+ },
+ "Guará": {
+  "pavimentacao_pct": 98.1,
+  "iluminacao_publica_pct": 98,
+  "drenagem_pct": 87.9
+ },
+ "Cruzeiro": {
+  "pavimentacao_pct": 98.8,
+  "iluminacao_publica_pct": 99.4,
+  "drenagem_pct": 94.2
+ },
+ "Samambaia": {
+  "pavimentacao_pct": 99.7,
+  "iluminacao_publica_pct": 94.3,
+  "drenagem_pct": 73.1
+ },
+ "Santa Maria": {
+  "pavimentacao_pct": 98,
+  "iluminacao_publica_pct": 97.5,
+  "drenagem_pct": 69.4
+ },
+ "São Sebastião": {
+  "pavimentacao_pct": 70,
+  "iluminacao_publica_pct": 73,
+  "drenagem_pct": 42.5
+ },
+ "Recanto das Emas": {
+  "pavimentacao_pct": 97.7,
+  "iluminacao_publica_pct": 92.3,
+  "drenagem_pct": 79
+ },
+ "Lago Sul": {
+  "pavimentacao_pct": 99.8,
+  "iluminacao_publica_pct": 99.5,
+  "drenagem_pct": 94.2
+ },
+ "Riacho Fundo": {
+  "pavimentacao_pct": 95.7,
+  "iluminacao_publica_pct": 94.6,
+  "drenagem_pct": 71.6
+ },
+ "Lago Norte": {
+  "pavimentacao_pct": 91.4,
+  "iluminacao_publica_pct": 98.2,
+  "drenagem_pct": 83.4
+ },
+ "Candangolândia": {
+  "pavimentacao_pct": 99,
+  "iluminacao_publica_pct": 99,
+  "drenagem_pct": 64.9
+ },
+ "Águas Claras": {
+  "pavimentacao_pct": 99.6,
+  "iluminacao_publica_pct": 99.3,
+  "drenagem_pct": 98.6
+ },
+ "Riacho Fundo II": {
+  "pavimentacao_pct": 98.7,
+  "iluminacao_publica_pct": 96.5,
+  "drenagem_pct": 83.9
+ },
+ "Sudoeste/Octogonal": {
+  "pavimentacao_pct": 99.7,
+  "iluminacao_publica_pct": 98.4,
+  "drenagem_pct": 97
+ },
+ "Varjão": {
+  "pavimentacao_pct": 99.8,
+  "iluminacao_publica_pct": 97.7,
+  "drenagem_pct": 68
+ },
+ "Park Way": {
+  "pavimentacao_pct": 99.5,
+  "iluminacao_publica_pct": 99.4,
+  "drenagem_pct": 74.3
+ },
+ "SCIA/Estrutural": {
+  "pavimentacao_pct": 72.6,
+  "iluminacao_publica_pct": 78.1,
+  "drenagem_pct": 32.3
+ },
+ "Sobradinho II": {
+  "pavimentacao_pct": 95.7,
+  "iluminacao_publica_pct": 99.7,
+  "drenagem_pct": 61.4
+ },
+ "Jardim Botânico": {
+  "pavimentacao_pct": 92.6,
+  "iluminacao_publica_pct": 97.2,
+  "drenagem_pct": 89
+ },
+ "Itapoã": {
+  "pavimentacao_pct": 97.4,
+  "iluminacao_publica_pct": 97.6,
+  "drenagem_pct": 58.7
+ },
+ "SIA": {
+  "pavimentacao_pct": 91.9,
+  "iluminacao_publica_pct": 94.1,
+  "drenagem_pct": 80.4
+ },
+ "Vicente Pires": {
+  "pavimentacao_pct": 84.3,
+  "iluminacao_publica_pct": 90.9,
+  "drenagem_pct": 75.7
+ },
+ "Fercal": {
+  "pavimentacao_pct": 67.9,
+  "iluminacao_publica_pct": 89.9,
+  "drenagem_pct": 9.2
+ },
+ "Sol Nascente/Pôr do Sol": {
+  "pavimentacao_pct": 56.4,
+  "iluminacao_publica_pct": 93.4,
+  "drenagem_pct": 38.1
+ },
+ "Arniqueira": {
+  "pavimentacao_pct": 97.8,
+  "iluminacao_publica_pct": 97.8,
+  "drenagem_pct": 68.8
+ }
+}

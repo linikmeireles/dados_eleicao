@@ -1,0 +1,233 @@
+{
+ "Plano Piloto": {
+  "quadras_esportivas_percebido_pct": 90.9,
+  "espaco_cultural_percebido_pct": 71.8,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 7,
+  "bibliotecas_qtd": null
+ },
+ "Gama": {
+  "quadras_esportivas_percebido_pct": 72.6,
+  "espaco_cultural_percebido_pct": 39.5,
+  "cops_qtd": 1,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Taguatinga": {
+  "quadras_esportivas_percebido_pct": 62,
+  "espaco_cultural_percebido_pct": 35.2,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Brazlândia": {
+  "quadras_esportivas_percebido_pct": 61.6,
+  "espaco_cultural_percebido_pct": 14,
+  "cops_qtd": 1,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Sobradinho": {
+  "quadras_esportivas_percebido_pct": 58.1,
+  "espaco_cultural_percebido_pct": 28.8,
+  "cops_qtd": 1,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Planaltina": {
+  "quadras_esportivas_percebido_pct": 43.4,
+  "espaco_cultural_percebido_pct": 16.7,
+  "cops_qtd": 1,
+  "equipamentos_culturais_secec_qtd_parcial": 1,
+  "bibliotecas_qtd": null
+ },
+ "Paranoá": {
+  "quadras_esportivas_percebido_pct": 75.5,
+  "espaco_cultural_percebido_pct": 36.4,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Núcleo Bandeirante": {
+  "quadras_esportivas_percebido_pct": 92.1,
+  "espaco_cultural_percebido_pct": 67.5,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Ceilândia": {
+  "quadras_esportivas_percebido_pct": 73.3,
+  "espaco_cultural_percebido_pct": 39.5,
+  "cops_qtd": 2,
+  "equipamentos_culturais_secec_qtd_parcial": 1,
+  "bibliotecas_qtd": null
+ },
+ "Guará": {
+  "quadras_esportivas_percebido_pct": 77.4,
+  "espaco_cultural_percebido_pct": 56.4,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Cruzeiro": {
+  "quadras_esportivas_percebido_pct": 91.7,
+  "espaco_cultural_percebido_pct": 67.7,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Samambaia": {
+  "quadras_esportivas_percebido_pct": 57.3,
+  "espaco_cultural_percebido_pct": 32.8,
+  "cops_qtd": 1,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Santa Maria": {
+  "quadras_esportivas_percebido_pct": 65.1,
+  "espaco_cultural_percebido_pct": 37.6,
+  "cops_qtd": 1,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "São Sebastião": {
+  "quadras_esportivas_percebido_pct": 48.7,
+  "espaco_cultural_percebido_pct": 17.4,
+  "cops_qtd": 1,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Recanto das Emas": {
+  "quadras_esportivas_percebido_pct": 77.8,
+  "espaco_cultural_percebido_pct": 23.8,
+  "cops_qtd": 1,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Lago Sul": {
+  "quadras_esportivas_percebido_pct": 65.8,
+  "espaco_cultural_percebido_pct": 59.8,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Riacho Fundo": {
+  "quadras_esportivas_percebido_pct": 81.7,
+  "espaco_cultural_percebido_pct": 37.2,
+  "cops_qtd": 1,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Lago Norte": {
+  "quadras_esportivas_percebido_pct": 47.4,
+  "espaco_cultural_percebido_pct": 33.1,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Candangolândia": {
+  "quadras_esportivas_percebido_pct": 88.4,
+  "espaco_cultural_percebido_pct": 75.7,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Águas Claras": {
+  "quadras_esportivas_percebido_pct": 85.1,
+  "espaco_cultural_percebido_pct": 77.1,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Riacho Fundo II": {
+  "quadras_esportivas_percebido_pct": 69.5,
+  "espaco_cultural_percebido_pct": 30.7,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Sudoeste/Octogonal": {
+  "quadras_esportivas_percebido_pct": 95.5,
+  "espaco_cultural_percebido_pct": 80.7,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Varjão": {
+  "quadras_esportivas_percebido_pct": 79.1,
+  "espaco_cultural_percebido_pct": 43.1,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Park Way": {
+  "quadras_esportivas_percebido_pct": 52.4,
+  "espaco_cultural_percebido_pct": 43,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "SCIA/Estrutural": {
+  "quadras_esportivas_percebido_pct": 57.9,
+  "espaco_cultural_percebido_pct": 25.3,
+  "cops_qtd": 1,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Sobradinho II": {
+  "quadras_esportivas_percebido_pct": 36.3,
+  "espaco_cultural_percebido_pct": 12.1,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Jardim Botânico": {
+  "quadras_esportivas_percebido_pct": 75.5,
+  "espaco_cultural_percebido_pct": 51.7,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Itapoã": {
+  "quadras_esportivas_percebido_pct": 31.7,
+  "espaco_cultural_percebido_pct": 7.8,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "SIA": {
+  "quadras_esportivas_percebido_pct": 56.1,
+  "espaco_cultural_percebido_pct": 40,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Vicente Pires": {
+  "quadras_esportivas_percebido_pct": 42.3,
+  "espaco_cultural_percebido_pct": 30.3,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Fercal": {
+  "quadras_esportivas_percebido_pct": 41,
+  "espaco_cultural_percebido_pct": 6.3,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Sol Nascente/Pôr do Sol": {
+  "quadras_esportivas_percebido_pct": 15.8,
+  "espaco_cultural_percebido_pct": 4.3,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ },
+ "Arniqueira": {
+  "quadras_esportivas_percebido_pct": 50.2,
+  "espaco_cultural_percebido_pct": 29.6,
+  "cops_qtd": 0,
+  "equipamentos_culturais_secec_qtd_parcial": 0,
+  "bibliotecas_qtd": null
+ }
+}

@@ -1,0 +1,200 @@
+{
+ "Plano Piloto": {
+  "desocupacao_pct": 3.1,
+  "sem_carteira_pct": 10.5,
+  "renda_domiciliar_media_2018": 15056.92,
+  "renda_ate2sm_pct": 3.7
+ },
+ "Gama": {
+  "desocupacao_pct": 11,
+  "sem_carteira_pct": 11.4,
+  "renda_domiciliar_media_2018": 3969.79,
+  "renda_ate2sm_pct": 24.5
+ },
+ "Taguatinga": {
+  "desocupacao_pct": 8.5,
+  "sem_carteira_pct": 9,
+  "renda_domiciliar_media_2018": 5623.94,
+  "renda_ate2sm_pct": null
+ },
+ "Brazlândia": {
+  "desocupacao_pct": 21.5,
+  "sem_carteira_pct": 20.4,
+  "renda_domiciliar_media_2018": 3308.66,
+  "renda_ate2sm_pct": 39.9
+ },
+ "Sobradinho": {
+  "desocupacao_pct": 15.5,
+  "sem_carteira_pct": 22.2,
+  "renda_domiciliar_media_2018": 6865.84,
+  "renda_ate2sm_pct": 23.0
+ },
+ "Planaltina": {
+  "desocupacao_pct": 17.1,
+  "sem_carteira_pct": 20.9,
+  "renda_domiciliar_media_2018": 3267.97,
+  "renda_ate2sm_pct": 51.4
+ },
+ "Paranoá": {
+  "desocupacao_pct": 15.4,
+  "sem_carteira_pct": 21.6,
+  "renda_domiciliar_media_2018": 2374.5,
+  "renda_ate2sm_pct": 52.6
+ },
+ "Núcleo Bandeirante": {
+  "desocupacao_pct": 8.8,
+  "sem_carteira_pct": 7.8,
+  "renda_domiciliar_media_2018": 5722.99,
+  "renda_ate2sm_pct": 14.8
+ },
+ "Ceilândia": {
+  "desocupacao_pct": 12.8,
+  "sem_carteira_pct": 16,
+  "renda_domiciliar_media_2018": 3319.14,
+  "renda_ate2sm_pct": 36.9
+ },
+ "Guará": {
+  "desocupacao_pct": 7.2,
+  "sem_carteira_pct": 11.2,
+  "renda_domiciliar_media_2018": 9163.51,
+  "renda_ate2sm_pct": null
+ },
+ "Cruzeiro": {
+  "desocupacao_pct": 4.1,
+  "sem_carteira_pct": 12.4,
+  "renda_domiciliar_media_2018": 8240.97,
+  "renda_ate2sm_pct": null
+ },
+ "Samambaia": {
+  "desocupacao_pct": 14.4,
+  "sem_carteira_pct": 11.3,
+  "renda_domiciliar_media_2018": 2502.89,
+  "renda_ate2sm_pct": 40.9
+ },
+ "Santa Maria": {
+  "desocupacao_pct": 12.2,
+  "sem_carteira_pct": 14,
+  "renda_domiciliar_media_2018": 2882.58,
+  "renda_ate2sm_pct": 35.7
+ },
+ "São Sebastião": {
+  "desocupacao_pct": 13.5,
+  "sem_carteira_pct": 26.8,
+  "renda_domiciliar_media_2018": 2895.69,
+  "renda_ate2sm_pct": 50.2
+ },
+ "Recanto das Emas": {
+  "desocupacao_pct": 17.5,
+  "sem_carteira_pct": 21.7,
+  "renda_domiciliar_media_2018": 2454.49,
+  "renda_ate2sm_pct": 42.0
+ },
+ "Lago Sul": {
+  "desocupacao_pct": 1.3,
+  "sem_carteira_pct": 17.5,
+  "renda_domiciliar_media_2018": 21398.23,
+  "renda_ate2sm_pct": null
+ },
+ "Riacho Fundo": {
+  "desocupacao_pct": 9.9,
+  "sem_carteira_pct": 16.5,
+  "renda_domiciliar_media_2018": 3182.11,
+  "renda_ate2sm_pct": 32.2
+ },
+ "Lago Norte": {
+  "desocupacao_pct": 6.1,
+  "sem_carteira_pct": 16.7,
+  "renda_domiciliar_media_2018": 14647.36,
+  "renda_ate2sm_pct": null
+ },
+ "Candangolândia": {
+  "desocupacao_pct": 9.1,
+  "sem_carteira_pct": 8.4,
+  "renda_domiciliar_media_2018": 3854.58,
+  "renda_ate2sm_pct": null
+ },
+ "Águas Claras": {
+  "desocupacao_pct": 4,
+  "sem_carteira_pct": 5.9,
+  "renda_domiciliar_media_2018": 11994.87,
+  "renda_ate2sm_pct": null
+ },
+ "Riacho Fundo II": {
+  "desocupacao_pct": 13.6,
+  "sem_carteira_pct": 17.9,
+  "renda_domiciliar_media_2018": 2360.3,
+  "renda_ate2sm_pct": 32.1
+ },
+ "Sudoeste/Octogonal": {
+  "desocupacao_pct": "(***)",
+  "sem_carteira_pct": 12.1,
+  "renda_domiciliar_media_2018": 15654.6,
+  "renda_ate2sm_pct": null
+ },
+ "Varjão": {
+  "desocupacao_pct": 14.6,
+  "sem_carteira_pct": 30.4,
+  "renda_domiciliar_media_2018": 2285.96,
+  "renda_ate2sm_pct": 48.1
+ },
+ "Park Way": {
+  "desocupacao_pct": 1.8,
+  "sem_carteira_pct": 7.6,
+  "renda_domiciliar_media_2018": 18155.64,
+  "renda_ate2sm_pct": null
+ },
+ "SCIA/Estrutural": {
+  "desocupacao_pct": 13.4,
+  "sem_carteira_pct": 29.2,
+  "renda_domiciliar_media_2018": 1741.97,
+  "renda_ate2sm_pct": 64.2
+ },
+ "Sobradinho II": {
+  "desocupacao_pct": 13.8,
+  "sem_carteira_pct": 26.6,
+  "renda_domiciliar_media_2018": 5832.0,
+  "renda_ate2sm_pct": 37.3
+ },
+ "Jardim Botânico": {
+  "desocupacao_pct": 4.7,
+  "sem_carteira_pct": 13.7,
+  "renda_domiciliar_media_2018": 10769.1,
+  "renda_ate2sm_pct": 4.7
+ },
+ "Itapoã": {
+  "desocupacao_pct": 15.7,
+  "sem_carteira_pct": 20.8,
+  "renda_domiciliar_media_2018": 2909.85,
+  "renda_ate2sm_pct": 54.5
+ },
+ "SIA": {
+  "desocupacao_pct": "(***)",
+  "sem_carteira_pct": "(***)",
+  "renda_domiciliar_media_2018": 7883.54,
+  "renda_ate2sm_pct": null
+ },
+ "Vicente Pires": {
+  "desocupacao_pct": 5.9,
+  "sem_carteira_pct": 11,
+  "renda_domiciliar_media_2018": 7867.44,
+  "renda_ate2sm_pct": null
+ },
+ "Fercal": {
+  "desocupacao_pct": 14.6,
+  "sem_carteira_pct": 13.5,
+  "renda_domiciliar_media_2018": 2594.48,
+  "renda_ate2sm_pct": 60.5
+ },
+ "Sol Nascente/Pôr do Sol": {
+  "desocupacao_pct": 13,
+  "sem_carteira_pct": 11.4,
+  "renda_domiciliar_media_2018": 2268.32,
+  "renda_ate2sm_pct": 60.8
+ },
+ "Arniqueira": {
+  "desocupacao_pct": 8.7,
+  "sem_carteira_pct": 19.2,
+  "renda_domiciliar_media_2018": 5559.37,
+  "renda_ate2sm_pct": 29.1
+ }
+}
